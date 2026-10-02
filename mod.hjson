@@ -1,14 +1,14 @@
 #the mod name as displayed in-game
-displayName: "My Java Mod"
+displayName: “Exploration“
 
 #the internal name of your mod
-name: "my-java-mod"
+name: "exploration"
 
 #your name
 author: "xiaoheng"
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "exploration.Exploration"
 
 #the mod description as seen in the mod dialog
 description: "A Mindustry Java mod."
