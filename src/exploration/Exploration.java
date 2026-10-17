@@ -18,7 +18,7 @@ public class Exploration extends Mod{
     public void loadContent(){
         Log.info("Loading some example content.");
 
-        new Item("copper", Color.brown);
+        Items.load();
     }
 
 }
